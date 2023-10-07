@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
-**CI** [![Build status](https://ci.appveyor.com/api/projects/status/f34tigv4jqr7npe7?svg=true)](https://ci.appveyor.com/project/garbuzenko/dnd)     [GitHub Pages](https://garbuzenko.github.io/events2/)
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/f34tigv4jqr7npe7?svg=true)](https://ci.appveyor.com/project/garbuzenko/dnd)     [GitHub Pages](https://garbuzenko.github.io/dnd/)
 
 Правила сдачи задания:
 
